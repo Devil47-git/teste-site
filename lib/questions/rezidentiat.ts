@@ -38,33 +38,33 @@ export const INTREBARI_REZIDENTIAT: Intrebare[] = [
   },
   {
     id: 4,
-    intrebare: 'Prin ce metodă se realizează scoaterea tatuajelor?',
+    intrebare: 'Ce investigatie trebuie facuta pentru a pune diagnosticul de "Hernie de disc"?',
     optiuni: [
-      'Incizie',
-      'Injecție',
-      'Laser'
+      'Computer Tomograf (CT)',
+      'RMN',
+      'Radiografie'
     ],
-    raspunsCorect: 'Laser'
+    raspunsCorect: 'Computer Tomograf (CT)'
   },
   {
     id: 5,
-    intrebare: 'De ce factor depinde numărul de impulsuri laser la scoaterea unui tatuaj?',
+    intrebare: 'Care este aparatul folosit pentru gasirea glonțului in organism?',
     optiuni: [
-      'Dimensiunea tatuajului',
-      'Pulsul pacientului',
-      'Vârsta pacientului'
+      'Electrocardiograma',
+      'Ecograf',
+      'RMN'
     ],
-    raspunsCorect: 'Dimensiunea tatuajului'
+    raspunsCorect: 'Ecograf'
   },
   {
     id: 6,
-    intrebare: 'Ce trebuie să evite pacientul după procedura de scoatere a tatuajelor?',
+    intrebare: 'Unde se afla meniscul?',
     optiuni: [
-      'Să maseze zona',
-      'Să evite scărpinarea zonei',
-      'Să îndepărteze crustele'
+      'Între femur și tibie',
+      'Între clavicula și stern',
+      'Între ulna și radius'
     ],
-    raspunsCorect: 'Să evite scărpinarea zonei'
+    raspunsCorect: 'Între femur și tibie'
   },
   {
     id: 7,
@@ -134,7 +134,7 @@ export const INTREBARI_REZIDENTIAT: Intrebare[] = [
       'Laser',
       'Atelă'
     ],
-    raspunsCorect: 'Foarfecă'
+    raspunsCorect: 'Laser'
   },
   {
     id: 14,

@@ -8,7 +8,6 @@ const nextConfig = {
       },
     ],
   },
-  serverExternalPackages: ['discord.js'],
   turbopack: {},
 };
 

@@ -54,7 +54,7 @@ export const INTREBARI_SMULS: Intrebare[] = [
     id: 5,
     intrebare: 'Ce echipamente trebuie să utilizăm înainte de a extrage victima din mașină?',
     optiuni: [
-      'Masca de oxigen și adrenalina.',
+      'Masca de oxigen și adrenalina.', 
       'Fierăstrăul pneumatic și compresorul.',
       'Guler Cervical și KED de extracție.',
       'Cleștele hidraulic și gheara mecanică.',
